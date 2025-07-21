@@ -17,11 +17,11 @@ The **Masters Toronto** event wasn’t just about wins and losses; it revealed *
 
 ### 🔸 Team-Level Observations
 
-| Team     | Strengths                                  | Weaknesses                             | Key Takeaway                                               |
-|----------|---------------------------------------------|-----------------------------------------|-------------------------------------------------------------|
-| **PRX**  | Excellent role distribution, clutch rounds  | Slight inconsistency in early rounds   | Thrived in high-pressure moments; eventual **champions**.   |
-| **FNC**  | Strong individual skill (esp. Alfajer)      | Less impactful in team synergy late     | Consistently dominant players but fell short in execution.  |
-| **MIBR** | Had moments of brilliance                   | Low overall impact across maps          | Lacked consistency; struggled to convert leads.             |
+| Team     | Strengths                                           | Weaknesses                                | Key Takeaway                                                                 |
+|----------|------------------------------------------------------|--------------------------------------------|-----------------------------------------------------------|
+| **PRX**  | Excellent role distribution, clutch rounds           | Slight inconsistency in early rounds       | Thrived in high-pressure moments; eventual **champions**.    |
+| **FNC**  | Strong individual mechanics & coordinated retakes | Leadership fell short in closing moments |Despite brilliant setups and team synergy, **Boaster** couldn’t convert crucial finals. |
+| **MIBR** | Had moments of brilliance     | Low overall impact across maps   | Lacked consistency; struggled to convert early leads into wins.    |
 
 ---
 
@@ -30,5 +30,5 @@ The **Masters Toronto** event wasn’t just about wins and losses; it revealed *
 - **Consistency + Role clarity** outperformed raw mechanical ability.
 - **Clutch performance** and **mental resilience** were defining traits of the winning side.
 - **Alfajer and f0rsakeN** dominated statistically and situationally.
-- **Patmen**, a rising rookie, showed that sharp game sense and rotation reads can win key rounds — highlighting PRX's depth beyond just veterans.
+- **Patmen**, a rising rookie, showed that sharp game sense and rotation reads can win key rounds, highlighting PRX's depth beyond just veterans.
 
