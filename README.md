@@ -26,10 +26,8 @@ This repository contains my Power BI case study on the **VCT Masters Toronto 202
 ---
 
 ## 📷 Visual Previews
-```markdown
-![SUMMARY](DASHBOARDS/SCREENSHOTS/2-SUMMARY.png)
-![KILL Stats](DASHBOARDS/SCREENSHOTS/3-KILLS.png)
-```
+- [SUMMARY](DASHBOARDS/SCREENSHOTS/2-SUMMARY.png)
+- [KILL Stats](DASHBOARDS/SCREENSHOTS/3-KILLS.png)
 
 ---
 
@@ -43,7 +41,7 @@ Feel free to explore the visuals, use the dataset, or share feedback!
 
 ## 🔗 Links
 
-- 📽️ [LinkedIn Walkthrough Post](https://www.linkedin.com/feed/update/urn:li:activity:7348624046223249409/) *(demo video or reactions)*  
+- 📽️ [LinkedIn Walkthrough Post](https://www.linkedin.com/feed/update/urn:li:activity:7348624046223249409/) 
 - 🗃️ Kaggle Dataset *(To be added soon)*  
 - 🧠 [Insights File](insights/readme_insights.md)
 
@@ -52,7 +50,7 @@ Feel free to explore the visuals, use the dataset, or share feedback!
 ## 📝 License
 
 This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-You are free to use, adapt, and share this project with proper credit.
+You are free to use, adapt, and share this project, provided you give proper credit.
 
 [🔗 View Full License](https://creativecommons.org/licenses/by/4.0/)
 
