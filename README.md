@@ -56,4 +56,11 @@ You are free to use, adapt, and share this project, provided you give proper cre
 
 ---
 
+## 📬 Contact
+
+For any questions, collaboration, or feedback:
+
+- 📧 Email: [kartikdivte@gmail.com](mailto:kartikdivte@gmail.com)
+- 💼 LinkedIn: [KARTIK DIVTE](https://www.linkedin.com/in/kartikdivte/)
+
 > Built with 💡 by KARTIK DIVTE – turning game data into stories that matter.
