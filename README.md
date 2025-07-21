@@ -46,7 +46,7 @@ Feel free to explore the visuals, use the dataset, or share feedback!
 
 ## 🔗 Links
 
-- 📽️ [LinkedIn Walkthrough Post]([https://www.linkedin.com/posts/your-post-link](https://www.linkedin.com/posts/kartikdivte_powerbi-esportsanalytics-datavisualization-activity-7348624046223249409-q8iQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLJnYMBrSRsgMl36S9jTN8mGWR7KG2tj-M))  
+- 📽️ [LinkedIn Walkthrough Post](https://www.linkedin.com/feed/update/urn:li:activity:7348624046223249409/) *(demo video or reactions)*  
 - 🗃️ Kaggle Dataset *(To be added soon)*  
 - 🧠 [Insights File](insights/readme_insights.md)
 
