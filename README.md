@@ -9,7 +9,7 @@ This repository contains my Power BI case study on the **VCT Masters Toronto 202
 - 📌 Match-by-match performance metrics
 - 🧠 Player and team consistency breakdown
 - ⚔️ Clutch rounds and high-pressure decision stats
-- 🎯 Headshot %, first bloods, map win rates
+- 🎯 Headshot%, first bloods, map win rates
 - 📈 Fully interactive Power BI dashboard
 
 ---
@@ -18,20 +18,17 @@ This repository contains my Power BI case study on the **VCT Masters Toronto 202
 
 | Folder         | Description                                      |
 |----------------|--------------------------------------------------|
-| `/data/raw`    | Original tournament data                         |
-| `/data/cleaned`| Cleaned and processed CSVs used in visuals       |
-| `/dashboard`   | Power BI `.pbix` file + exported visual screenshots |
-| `/insights`    | Game-by-game observations and analytical notes   |
+| `/DATA/RAW`    | Original tournament data                         |
+| `/DATA/CLEANED`| Cleaned and processed CSVs used in visuals       |
+| `/DASHBOARD`   | Power BI `.pbix` file + exported visual screenshots |
+| `/INSIGHTS`    | Game-by-game observations and analytical notes   |
 
 ---
 
 ## 📷 Visual Previews
-
-> *(Add screenshots here in `/dashboard/screenshots/` and embed like below)*
-
 ```markdown
-![Team Rankings](dashboard/screenshots/team_rankings.png)
-![Clutch Stats](dashboard/screenshots/clutch_stats.png)
+![SUMMARY](DASHBOARDS/SCREENSHOTS/2-SUMMARY.png)
+![KILL Stats](DASHBOARDS/SCREENSHOTS/3-KILLS.png)
 ```
 
 ---
@@ -61,4 +58,4 @@ You are free to use, adapt, and share this project with proper credit.
 
 ---
 
-> Built with 💡 by [Your Name] – turning game data into stories that matter.
+> Built with 💡 by KARTIK DIVTE – turning game data into stories that matter.
