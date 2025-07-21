@@ -43,7 +43,7 @@ Feel free to explore the visuals, use the dataset, or share feedback!
 
 - 📽️ [LinkedIn Walkthrough Post](https://www.linkedin.com/feed/update/urn:li:activity:7348624046223249409/) 
 - 🗃️ Kaggle Dataset *(To be added soon)*  
-- 🧠 [Insights File](insights/readme_insights.md)
+- 🧠 [Insights File](INSIGHTS/readme_insights.md)
 
 ---
 
